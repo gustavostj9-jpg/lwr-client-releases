@@ -1,12 +1,12 @@
-{
+﻿{
     "schema":  1,
     "version":  "0.6.5",
     "min_version":  "0.6.5",
-    "notes":  "Atualização 0.6.5. Abra o launcher que o jogo atualiza sozinho.",
+    "notes":  "AtualizaÃ§Ã£o 0.6.5. Abra o launcher que o jogo atualiza sozinho.",
     "updated":  "2026-11-09T20:44:36+01:00",
     "launcher":  {
                      "version":  "1.1.0",
-                     "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.5/LostWorldLauncher-1.1.0.exe",
+                     "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.5-p5/LostWorldLauncher-1.1.0.exe",
                      "sha256":  "8f4b083dc649b459fa25749bd1ce7a0969e72874b4f46a8460aa0abc7f6553d4",
                      "size":  119163076
                  },
