@@ -1,8 +1,8 @@
-﻿{
+{
     "schema":  1,
     "version":  "0.6.5",
     "min_version":  "0.6.5",
-    "notes":  "AtualizaÃ§Ã£o 0.6.5. Abra o launcher que o jogo atualiza sozinho.",
+    "notes":  "Atualização 0.6.5. Abra o launcher que o jogo atualiza sozinho.",
     "updated":  "2026-11-09T20:44:36+01:00",
     "launcher":  {
                      "version":  "1.1.0",
