@@ -2,8 +2,8 @@
     "schema":  1,
     "version":  "0.6.6",
     "min_version":  "0.6.5",
-    "notes":  "Atalhos de teclado no combate (Espaço, Q, R, E, 1), botão de combate na barra de ações, botão de sair perto do minimapa.",
-    "updated":  "2026-11-13T14:47:09+01:00",
+    "notes":  "Atalhos de combate no teclado, barra de carregamento nova, textos das receitas ajustados e Poder de Criação recalculado.",
+    "updated":  "2026-11-13T19:32:48+01:00",
     "launcher":  {
                      "version":  "1.2.0",
                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.5-p5/LostWorldLauncher-1.2.0.exe",
@@ -97,10 +97,10 @@
                   },
                   {
                       "path":  "DurangoV2_Data/resources.assets",
-                      "size":  74771112,
-                      "sha256":  "0ca8afdf17d7c0717e5c39ba6469c6217df32c82bd2a5831ebdfa55729b44ec8",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.5/0ca8afdf17d7c0717e5c39ba6469c6217df32c82bd2a5831ebdfa55729b44ec8.gz",
-                      "download_size":  21274136
+                      "size":  83159696,
+                      "sha256":  "38ee8ce648abc95625cf7d46ebfd8b872a161b10d8cca800dd39871c23fe96eb",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.6/38ee8ce648abc95625cf7d46ebfd8b872a161b10d8cca800dd39871c23fe96eb.gz",
+                      "download_size":  23299478
                   },
                   {
                       "path":  "DurangoV2_Data/resources.assets.resS",
@@ -167,10 +167,10 @@
                   },
                   {
                       "path":  "DurangoV2_Data/Managed/Assembly-CSharp.dll",
-                      "size":  6067200,
-                      "sha256":  "9b7cc5276cc1f6ab079a7481ac2f4e712e1904b347e29ebff1adccaba625e5fa",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.6/9b7cc5276cc1f6ab079a7481ac2f4e712e1904b347e29ebff1adccaba625e5fa.gz",
-                      "download_size":  2323606
+                      "size":  6066688,
+                      "sha256":  "d79db4adafa0da285dbb9add33fd724803f3634f41d55726d83a268f0a399e26",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.6/d79db4adafa0da285dbb9add33fd724803f3634f41d55726d83a268f0a399e26.gz",
+                      "download_size":  2323450
                   },
                   {
                       "path":  "DurangoV2_Data/Managed/Debug.dll",
@@ -202,10 +202,10 @@
                   },
                   {
                       "path":  "DurangoV2_Data/Managed/LostWorld.CombatHud.dll",
-                      "size":  19968,
-                      "sha256":  "301012a72cc2167def15d6215e0c1931781c6e6354048aa89e3a7599924e64fb",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.6/301012a72cc2167def15d6215e0c1931781c6e6354048aa89e3a7599924e64fb.gz",
-                      "download_size":  9663
+                      "size":  23040,
+                      "sha256":  "7f3f08e661b6e0270c9cd08d20512c19592fce579bb26224e634b8564858fc59",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.6/7f3f08e661b6e0270c9cd08d20512c19592fce579bb26224e634b8564858fc59.gz",
+                      "download_size":  11258
                   },
                   {
                       "path":  "DurangoV2_Data/Managed/LostWorld.InventoryWallet.dll",
@@ -31135,10 +31135,10 @@
                   },
                   {
                       "path":  "Languages/pt_BR/messages.po",
-                      "size":  4814721,
-                      "sha256":  "0aecba0c744fedfc63ff533c61aee4765734c1cb2ce5d57614849f013ac5770a",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.5-p5/0aecba0c744fedfc63ff533c61aee4765734c1cb2ce5d57614849f013ac5770a.gz",
-                      "download_size":  1597491
+                      "size":  4814489,
+                      "sha256":  "4b0533028b49d45ace094f1e08371dcfa5477d29502d2b4ef735778bd87a67e1",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.6/4b0533028b49d45ace094f1e08371dcfa5477d29502d2b4ef735778bd87a67e1.gz",
+                      "download_size":  1597460
                   },
                   {
                       "path":  "Languages/th_TH/messages.po",
