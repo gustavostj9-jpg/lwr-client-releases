@@ -1,9 +1,9 @@
 {
     "schema":  1,
-    "version":  "0.6.5",
+    "version":  "0.6.6",
     "min_version":  "0.6.5",
-    "notes":  "Atualização 0.6.5. Abra o launcher que o jogo atualiza sozinho.",
-    "updated":  "2026-11-10T15:50:55+01:00",
+    "notes":  "Atalhos de teclado no combate (Espaço, Q, R, E, 1), botão de combate na barra de ações, botão de sair perto do minimapa.",
+    "updated":  "2026-11-13T14:47:09+01:00",
     "launcher":  {
                      "version":  "1.2.0",
                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.5-p5/LostWorldLauncher-1.2.0.exe",
@@ -168,9 +168,9 @@
                   {
                       "path":  "DurangoV2_Data/Managed/Assembly-CSharp.dll",
                       "size":  6067200,
-                      "sha256":  "819b19af9477c86e31dc0c259fb9ebd70a75ad02ed6dd2605d099be9539b6a50",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.5/819b19af9477c86e31dc0c259fb9ebd70a75ad02ed6dd2605d099be9539b6a50.gz",
-                      "download_size":  2323887
+                      "sha256":  "9b7cc5276cc1f6ab079a7481ac2f4e712e1904b347e29ebff1adccaba625e5fa",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.6/9b7cc5276cc1f6ab079a7481ac2f4e712e1904b347e29ebff1adccaba625e5fa.gz",
+                      "download_size":  2323606
                   },
                   {
                       "path":  "DurangoV2_Data/Managed/Debug.dll",
@@ -199,6 +199,13 @@
                       "sha256":  "40b3d590f95191f3e33e5d00e534fa40f823d9b1bb2a9afe05f139c4e0a3af8d",
                       "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.5/40b3d590f95191f3e33e5d00e534fa40f823d9b1bb2a9afe05f139c4e0a3af8d.gz",
                       "download_size":  81775
+                  },
+                  {
+                      "path":  "DurangoV2_Data/Managed/LostWorld.CombatHud.dll",
+                      "size":  19968,
+                      "sha256":  "301012a72cc2167def15d6215e0c1931781c6e6354048aa89e3a7599924e64fb",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.6/301012a72cc2167def15d6215e0c1931781c6e6354048aa89e3a7599924e64fb.gz",
+                      "download_size":  9663
                   },
                   {
                       "path":  "DurangoV2_Data/Managed/LostWorld.InventoryWallet.dll",
