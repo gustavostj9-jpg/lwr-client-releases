@@ -1,9 +1,9 @@
 {
     "schema":  1,
-    "version":  "0.6.6",
+    "version":  "0.6.7",
     "min_version":  "0.6.5",
-    "notes":  "Atalhos de combate no teclado, barra de carregamento nova, textos das receitas ajustados e Poder de Criação recalculado.",
-    "updated":  "2026-11-13T19:32:48+01:00",
+    "notes":  "Atalhos de combate, nova tela de carregamento, correção da tela preta depois do trem, textos ajustados.",
+    "updated":  "2026-11-14T09:50:02+01:00",
     "launcher":  {
                      "version":  "1.2.0",
                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.5-p5/LostWorldLauncher-1.2.0.exe",
@@ -98,9 +98,9 @@
                   {
                       "path":  "DurangoV2_Data/resources.assets",
                       "size":  83159696,
-                      "sha256":  "38ee8ce648abc95625cf7d46ebfd8b872a161b10d8cca800dd39871c23fe96eb",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.6/38ee8ce648abc95625cf7d46ebfd8b872a161b10d8cca800dd39871c23fe96eb.gz",
-                      "download_size":  23299478
+                      "sha256":  "af56a9f491e8b72a89e1142e70740af0e45521aef670b11e25c678c8ed1c639f",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.7/af56a9f491e8b72a89e1142e70740af0e45521aef670b11e25c678c8ed1c639f.gz",
+                      "download_size":  23299483
                   },
                   {
                       "path":  "DurangoV2_Data/resources.assets.resS",
@@ -167,10 +167,10 @@
                   },
                   {
                       "path":  "DurangoV2_Data/Managed/Assembly-CSharp.dll",
-                      "size":  6066688,
-                      "sha256":  "d79db4adafa0da285dbb9add33fd724803f3634f41d55726d83a268f0a399e26",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.6/d79db4adafa0da285dbb9add33fd724803f3634f41d55726d83a268f0a399e26.gz",
-                      "download_size":  2323450
+                      "size":  6067200,
+                      "sha256":  "eb68a01dccfb9aa164d57bbbb2ac2cc7a06f23d5c2a26a2e911ffb00747b2b85",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.7/eb68a01dccfb9aa164d57bbbb2ac2cc7a06f23d5c2a26a2e911ffb00747b2b85.gz",
+                      "download_size":  2323712
                   },
                   {
                       "path":  "DurangoV2_Data/Managed/Debug.dll",
@@ -202,10 +202,10 @@
                   },
                   {
                       "path":  "DurangoV2_Data/Managed/LostWorld.CombatHud.dll",
-                      "size":  23040,
-                      "sha256":  "7f3f08e661b6e0270c9cd08d20512c19592fce579bb26224e634b8564858fc59",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.6/7f3f08e661b6e0270c9cd08d20512c19592fce579bb26224e634b8564858fc59.gz",
-                      "download_size":  11258
+                      "size":  27136,
+                      "sha256":  "562e5b7523d3b028f7e82636f4814feaf026b8a39f9200c6117988c7e036152b",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.7/562e5b7523d3b028f7e82636f4814feaf026b8a39f9200c6117988c7e036152b.gz",
+                      "download_size":  13239
                   },
                   {
                       "path":  "DurangoV2_Data/Managed/LostWorld.InventoryWallet.dll",
@@ -899,6 +899,13 @@
                       "sha256":  "e38b465a91fce04051dea7b2f5f50f839f306ca4f69af6612e3f03d8d96acd83",
                       "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.5/e38b465a91fce04051dea7b2f5f50f839f306ca4f69af6612e3f03d8d96acd83.gz",
                       "download_size":  180
+                  },
+                  {
+                      "path":  "DurangoV2_Data/StreamingAssets/prologue_movie_pc.mp4",
+                      "size":  54056579,
+                      "sha256":  "d983f8caf725dcfcd3102ab223050c13b4ba764e7b4d579e3dd0478e85ef0f9c",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.7/d983f8caf725dcfcd3102ab223050c13b4ba764e7b4d579e3dd0478e85ef0f9c.bin",
+                      "download_size":  54056579
                   },
                   {
                       "path":  "DurangoV2_Data/StreamingAssets/AssetBundles/AssetBundles",
