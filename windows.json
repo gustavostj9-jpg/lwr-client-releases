@@ -1,13 +1,13 @@
 {
     "schema":  1,
-    "version":  "0.6.7",
+    "version":  "0.6.8",
     "min_version":  "0.6.5",
-    "notes":  "Atalhos de combate, nova tela de carregamento, correção da tela preta depois do trem, textos ajustados.",
-    "updated":  "2026-11-14T09:50:02+01:00",
+    "notes":  "Launcher 1.2.1: a janela não trava mais em \u0027Atualizando 100%\u0027.",
+    "updated":  "2026-11-14T09:59:41+01:00",
     "launcher":  {
-                     "version":  "1.2.0",
-                     "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.5-p5/LostWorldLauncher-1.2.0.exe",
-                     "sha256":  "1a8b08163818b60580e63e3f688a74360335faf2192b42b214cc8a6ceeaff2ae",
+                     "version":  "1.2.1",
+                     "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.8/LostWorldLauncher-1.2.1.exe",
+                     "sha256":  "1d18ca98f674a55f4f5cff42e5fde96da10ae6e452883a2a78807aa16ba8f91a",
                      "size":  119167172
                  },
     "files":  [
