@@ -1,14 +1,14 @@
 {
     "schema":  1,
-    "version":  "0.6.8",
+    "version":  "0.6.9",
     "min_version":  "0.6.5",
-    "notes":  "Launcher 1.2.1: a janela não trava mais em \u0027Atualizando 100%\u0027.",
-    "updated":  "2026-11-14T09:59:41+01:00",
+    "notes":  "Atualização 0.6.9. Abra o launcher que o jogo atualiza sozinho.",
+    "updated":  "2026-11-14T14:39:13+01:00",
     "launcher":  {
-                     "version":  "1.2.1",
-                     "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.8/LostWorldLauncher-1.2.1.exe",
-                     "sha256":  "1d18ca98f674a55f4f5cff42e5fde96da10ae6e452883a2a78807aa16ba8f91a",
-                     "size":  119167172
+                     "version":  "1.3.0",
+                     "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.9/LostWorldLauncher-1.3.0.exe",
+                     "sha256":  "33592e48dd5d31c69d2bf41300923bb37967263baba35ff9f09e84b9117f8b98",
+                     "size":  119204036
                  },
     "files":  [
                   {
@@ -168,9 +168,9 @@
                   {
                       "path":  "DurangoV2_Data/Managed/Assembly-CSharp.dll",
                       "size":  6067200,
-                      "sha256":  "eb68a01dccfb9aa164d57bbbb2ac2cc7a06f23d5c2a26a2e911ffb00747b2b85",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.7/eb68a01dccfb9aa164d57bbbb2ac2cc7a06f23d5c2a26a2e911ffb00747b2b85.gz",
-                      "download_size":  2323712
+                      "sha256":  "14ecee4d9e98baa3540b99365a893bbd9b9eedd8136f09329c7f574c456a8c57",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.9/14ecee4d9e98baa3540b99365a893bbd9b9eedd8136f09329c7f574c456a8c57.gz",
+                      "download_size":  2323739
                   },
                   {
                       "path":  "DurangoV2_Data/Managed/Debug.dll",
@@ -202,10 +202,10 @@
                   },
                   {
                       "path":  "DurangoV2_Data/Managed/LostWorld.CombatHud.dll",
-                      "size":  27136,
-                      "sha256":  "562e5b7523d3b028f7e82636f4814feaf026b8a39f9200c6117988c7e036152b",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.7/562e5b7523d3b028f7e82636f4814feaf026b8a39f9200c6117988c7e036152b.gz",
-                      "download_size":  13239
+                      "size":  27648,
+                      "sha256":  "ce5a80bef353415f909a0bf185accaf9387ed2321eea66480fec1112f3a14804",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.9/ce5a80bef353415f909a0bf185accaf9387ed2321eea66480fec1112f3a14804.gz",
+                      "download_size":  13447
                   },
                   {
                       "path":  "DurangoV2_Data/Managed/LostWorld.InventoryWallet.dll",
@@ -31142,10 +31142,10 @@
                   },
                   {
                       "path":  "Languages/pt_BR/messages.po",
-                      "size":  4814489,
-                      "sha256":  "4b0533028b49d45ace094f1e08371dcfa5477d29502d2b4ef735778bd87a67e1",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.6/4b0533028b49d45ace094f1e08371dcfa5477d29502d2b4ef735778bd87a67e1.gz",
-                      "download_size":  1597460
+                      "size":  4814941,
+                      "sha256":  "e975849ea8c4f721dda24052e718b1ac3213a5318d150385b0ccc0c263638621",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.9/e975849ea8c4f721dda24052e718b1ac3213a5318d150385b0ccc0c263638621.gz",
+                      "download_size":  1597614
                   },
                   {
                       "path":  "Languages/th_TH/messages.po",
