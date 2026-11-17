@@ -1,9 +1,9 @@
 {
     "schema":  1,
-    "version":  "0.6.10",
+    "version":  "0.6.11",
     "min_version":  "0.6.5",
-    "notes":  "Atualização 0.6.10. Abra o launcher que o jogo atualiza sozinho.",
-    "updated":  "2026-11-15T14:48:13+01:00",
+    "notes":  "Área de ataque dos dinos e do seu golpe marcada no chão",
+    "updated":  "2026-11-17T19:53:26+01:00",
     "launcher":  {
                      "version":  "1.3.1",
                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.10/LostWorldLauncher-1.3.1.exe",
@@ -168,9 +168,9 @@
                   {
                       "path":  "DurangoV2_Data/Managed/Assembly-CSharp.dll",
                       "size":  6067200,
-                      "sha256":  "14ecee4d9e98baa3540b99365a893bbd9b9eedd8136f09329c7f574c456a8c57",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.9/14ecee4d9e98baa3540b99365a893bbd9b9eedd8136f09329c7f574c456a8c57.gz",
-                      "download_size":  2323739
+                      "sha256":  "00ed468ff42ebe77f915bbac600bf2c6c7176592a4b7f88f9fe91e8ad253b9ea",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.11/00ed468ff42ebe77f915bbac600bf2c6c7176592a4b7f88f9fe91e8ad253b9ea.gz",
+                      "download_size":  2323740
                   },
                   {
                       "path":  "DurangoV2_Data/Managed/Debug.dll",
