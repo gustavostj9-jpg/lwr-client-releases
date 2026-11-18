@@ -1,9 +1,9 @@
 {
     "schema":  1,
-    "version":  "0.6.12",
+    "version":  "0.6.13",
     "min_version":  "0.6.5",
-    "notes":  "Tela do Lost World também ao deslogar",
-    "updated":  "2026-11-18T13:41:41+01:00",
+    "notes":  "Botão Mover para móveis",
+    "updated":  "2026-11-18T18:26:33+01:00",
     "launcher":  {
                      "version":  "1.4.0",
                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.11/LostWorldLauncher-1.4.0.exe",
@@ -167,10 +167,10 @@
                   },
                   {
                       "path":  "LostWorldReborn_Data/Managed/Assembly-CSharp.dll",
-                      "size":  6067200,
-                      "sha256":  "15cca70f9be07105821144311301dee28bb5ba48a91984cca125953090783019",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.11/15cca70f9be07105821144311301dee28bb5ba48a91984cca125953090783019.gz",
-                      "download_size":  2323248
+                      "size":  6067712,
+                      "sha256":  "9a5c7e6255a8f5ed577c8a0717de134c26c9b7fc54224a03be13bf1f5896222b",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.13/9a5c7e6255a8f5ed577c8a0717de134c26c9b7fc54224a03be13bf1f5896222b.gz",
+                      "download_size":  2323451
                   },
                   {
                       "path":  "LostWorldReborn_Data/Managed/Debug.dll",
@@ -203,9 +203,9 @@
                   {
                       "path":  "LostWorldReborn_Data/Managed/LostWorld.Client.dll",
                       "size":  359936,
-                      "sha256":  "e771ba292cae48ddd08e75b9924f2e218e4daf83824d5c7b9ba16274bee92516",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.12/e771ba292cae48ddd08e75b9924f2e218e4daf83824d5c7b9ba16274bee92516.gz",
-                      "download_size":  321308
+                      "sha256":  "9bfc901b5420c6c36acb0e44392a6ac88f7fd8ac9e64452fb2bf99bb8b7e4c79",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.13/9bfc901b5420c6c36acb0e44392a6ac88f7fd8ac9e64452fb2bf99bb8b7e4c79.gz",
+                      "download_size":  321304
                   },
                   {
                       "path":  "LostWorldReborn_Data/Managed/LostWorld.CombatHud.dll",
@@ -31136,9 +31136,9 @@
                   {
                       "path":  "Languages/en_US/messages.po",
                       "size":  4686916,
-                      "sha256":  "0a8f35e167e4a82e336562b92af440936d5d1a8d0308ac91a637945702a13ab1",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.5-p5/0a8f35e167e4a82e336562b92af440936d5d1a8d0308ac91a637945702a13ab1.gz",
-                      "download_size":  1560849
+                      "sha256":  "183d7751aca5659372e0bcd5e6b4985fcba5a230f263b0d31d891a6d26f58e95",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.13/183d7751aca5659372e0bcd5e6b4985fcba5a230f263b0d31d891a6d26f58e95.gz",
+                      "download_size":  1560845
                   },
                   {
                       "path":  "Languages/id_ID/messages.po",
@@ -31156,9 +31156,9 @@
                   },
                   {
                       "path":  "Languages/pt_BR/messages.po",
-                      "size":  4814941,
-                      "sha256":  "e975849ea8c4f721dda24052e718b1ac3213a5318d150385b0ccc0c263638621",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.9/e975849ea8c4f721dda24052e718b1ac3213a5318d150385b0ccc0c263638621.gz",
+                      "size":  4814937,
+                      "sha256":  "faa2c6787d1ba3675e6a7e456ffe61b44de58091d8d1583798384e8914175528",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.13/faa2c6787d1ba3675e6a7e456ffe61b44de58091d8d1583798384e8914175528.gz",
                       "download_size":  1597614
                   },
                   {
