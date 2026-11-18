@@ -1,9 +1,9 @@
 {
     "schema":  1,
-    "version":  "0.6.13",
+    "version":  "0.6.14",
     "min_version":  "0.6.5",
-    "notes":  "Botão Mover para móveis",
-    "updated":  "2026-11-18T18:26:33+01:00",
+    "notes":  "Logo novo na tela inicial e botão de sair corrigido",
+    "updated":  "2026-11-18T22:11:06+01:00",
     "launcher":  {
                      "version":  "1.4.0",
                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.11/LostWorldLauncher-1.4.0.exe",
@@ -202,10 +202,10 @@
                   },
                   {
                       "path":  "LostWorldReborn_Data/Managed/LostWorld.Client.dll",
-                      "size":  359936,
-                      "sha256":  "9bfc901b5420c6c36acb0e44392a6ac88f7fd8ac9e64452fb2bf99bb8b7e4c79",
-                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.13/9bfc901b5420c6c36acb0e44392a6ac88f7fd8ac9e64452fb2bf99bb8b7e4c79.gz",
-                      "download_size":  321304
+                      "size":  942592,
+                      "sha256":  "b9e4ed3d0d8f57b56c15c6a504c1c9fc97dcecb204feee3a409fcbbd10417e2a",
+                      "url":  "https://github.com/gustavostj9-jpg/lwr-client-releases/releases/download/v0.6.14/b9e4ed3d0d8f57b56c15c6a504c1c9fc97dcecb204feee3a409fcbbd10417e2a.bin",
+                      "download_size":  942592
                   },
                   {
                       "path":  "LostWorldReborn_Data/Managed/LostWorld.CombatHud.dll",
